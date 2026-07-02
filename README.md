@@ -1,3 +1,4 @@
 ## Members
 - Rheyven
 - Elmira
+- Erich
