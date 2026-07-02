@@ -186,7 +186,10 @@ $csrf = generate_csrf_token();
                         </div>
                     </div>
 
-                    
+                    <button type="submit" class="btn btn--primary btn--full" id="login-btn">
+                        <span class="btn__text">Log In</span>
+                        <span class="btn__spinner" aria-hidden="true"></span>
+                    </button>
                 </form>
 
                 <?php if ($role === 'student'): ?>
