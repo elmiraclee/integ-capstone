@@ -90,6 +90,7 @@ $csrf = generate_csrf_token();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Uniqueue — Login</title>
+    <link rel="stylesheet" href="/assets/css/auth.css">
     
 </head>
 <body class="auth-body" data-role="<?= e($role) ?>">
