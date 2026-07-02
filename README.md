@@ -1,1 +1,3 @@
-# integ-capstone
+## Members
+- Rheyven
+- Elmira
